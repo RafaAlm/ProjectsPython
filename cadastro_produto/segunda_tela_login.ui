@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>488</width>
-    <height>469</height>
+    <width>517</width>
+    <height>0</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -61,7 +61,7 @@ border-width: 2px;
 border-color: black;</string>
     </property>
     <property name="text">
-     <string>Adicionar Produto</string>
+     <string>Adicionar carro</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_2">
@@ -124,7 +124,7 @@ border-color: black;</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>488</width>
+     <width>517</width>
      <height>21</height>
     </rect>
    </property>
